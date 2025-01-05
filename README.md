@@ -28,7 +28,7 @@
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-
+   ![snake gif](https://github.com/GuiBSantos/sxfivglz/blob/output/github-snake-dark.svg)
 </div>
 
 <hr/>
