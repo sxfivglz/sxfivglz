@@ -20,9 +20,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,github,figma,git,js,jquery" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,php,express, nginx,npm, laravel " /><br>
-   <img src="https://skillicons.dev/icons?i=mysql, firebase, mongodb, postgres"  /><br> 
-   <img src="https://skillicons.dev/icons?i=postman, docker, swift, androidstudio "/><br> 
+    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,php,express,nginx,npm,laravel" /><br>
+   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres,docker,swift,androidstudio" /><br> 
 </div>
 
 <br/>
