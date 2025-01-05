@@ -14,7 +14,7 @@
 
 💬 Ask me about **PHP, Laravel, Javascript...**
 </div>
- <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -34,5 +34,4 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
 
