@@ -28,7 +28,10 @@
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-   ![snake gif](https://github.com/sxfivglz/sxfivglz/blob/output/github-snake-dark.svg)
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sxfivglz/sxfivglz/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <hr/>
