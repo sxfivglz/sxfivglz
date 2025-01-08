@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **practicing skills**
- 
  🌱 I’m currently learning **.NET**
 
 💬 Ask me about **PHP, Laravel, Javascript...**
@@ -30,9 +28,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sxfivglz/sxfivglz/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=sxfivglz&theme=highcontrast&hide_border=true&short_numbers=true&stroke=EBEBEB&fire=EBEBEB&ring=EBEBEB&currStreakLabel=EBEBEB" alt="streak stats"/>
-</div>
+
 
 
