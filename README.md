@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **.NET**
+ 🌱 I’m currently learning **N8N**
 
 💬 Ask me about **PHP, Laravel, Javascript...**
 </div>
