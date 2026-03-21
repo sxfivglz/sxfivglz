@@ -8,16 +8,16 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **N8N**
+ 🌱 I’m currently learning **Agentic Development**
 
-💬 Ask me about **PHP, Laravel, Javascript...**
+💬 Ask me about **Claude code, Docker, N8N...**
 </div>
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,github,figma,git,js,jquery" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,github,figma,git,js,jquery," /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,php,express,nginx,npm,laravel" /><br>
    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres,docker,swift,androidstudio" /><br> 
 </div>
