@@ -22,14 +22,30 @@ My current focus is agentic development with reliable engineering practices and 
 - Automation and system integrations
 - Agentic workflows with Claude Code and OpenAI Codex
 
-## Core stack
+<div align="center">
 
-`TypeScript` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `Docker` · `n8n`
+<h2>Core stack</h2>
+
+<p>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" />
+<img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
+<img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&amp;logo=shadcnui&amp;logoColor=white" />
+</p>
+
+<p>
+<img alt="Frontend languages, frameworks, and design tools" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,bootstrap,html,css,jquery,figma" /><br />
+<img alt="Backend languages, frameworks, and runtime tools" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,django,php,laravel,nginx,npm" /><br />
+<img alt="Databases, cloud services, and infrastructure tools" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,docker,githubactions,linux" /><br />
+<img alt="Mobile development and source control tools" src="https://skillicons.dev/icons?i=swift,androidstudio,git,github" />
+</p>
+
+</div>
 
 <div align="center">
 
-<h2>My contributions 🐍</h2>
+<h2>My contributions</h2>
 
-<img alt="Animated visualization of Sofía's contribution history" src="https://raw.githubusercontent.com/sxfivglz/sxfivglz/output/github-contribution-grid-snake-dark.svg" />
+<img alt="Combined public contribution activity for Sofía's GitHub accounts" src="https://raw.githubusercontent.com/sxfivglz/sxfivglz/output/combined-contributions.svg" />
 
 </div>
