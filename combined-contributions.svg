@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="784" height="148" viewBox="0 0 784 148" role="img" aria-labelledby="title description">
+<title id="title">Combined GitHub contribution activity</title>
+<desc id="description">A visual sum of public daily contribution counts for sxfivglz and SofiaNeurya. This does not modify either GitHub profile.</desc>
+<style>
+:root{--fg:#57606a;--l0:#ebedf0;--l1:#9be9a8;--l2:#40c463;--l3:#30a14e;--l4:#216e39}
+@media(prefers-color-scheme:dark){:root{--fg:#8b949e;--l0:#161b22;--l1:#0e4429;--l2:#006d32;--l3:#26a641;--l4:#39d353}}
+text{fill:var(--fg);font:10px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif}
+.day{shape-rendering:geometricPrecision}.level-0{fill:var(--l0)}.level-1{fill:var(--l1)}.level-2{fill:var(--l2)}.level-3{fill:var(--l3)}.level-4{fill:var(--l4)}
+</style>
+<text x="72" y="10">Oct</text>
+<text x="128" y="10">Nov</text>
+<text x="198" y="10">Dec</text>
+<text x="254" y="10">Jan</text>
+<text x="324" y="10">Feb</text>
+<text x="380" y="10">Mar</text>
+<text x="436" y="10">Apr</text>
+<text x="492" y="10">May</text>
+<text x="562" y="10">Jun</text>
+<text x="618" y="10">Jul</text>
+<text x="674" y="10">Aug</text>
+<text x="744" y="10">Sep</text>
+<text x="0" y="45">Mon</text>
+<text x="0" y="73">Wed</text>
+<text x="0" y="101">Fri</text>
+<rect class="day level-0" x="30" y="22" width="10" height="10" rx="2" data-date="2025-09-07" data-count="0">
+<title>0 combined contributions on 2025-09-07</title>
+</rect>
+<rect class="day level-0" x="30" y="36" width="10" height="10" rx="2" data-date="2025-09-08" data-count="0">
+<title>0 combined contributions on 2025-09-08</title>
+</rect>
+<rect class="day level-0" x="30" y="50" width="10" height="10" rx="2" data-date="2025-09-09" data-count="0">
+<title>0 combined contributions on 2025-09-09</title>
+</rect>
+<rect class="day level-0" x="30" y="64" width="10" height="10" rx="2" data-date="2025-09-10" data-count="0">
+<title>0 combined contributions on 2025-09-10</title>
+</rect>
+<rect class="day level-0" x="30" y="78" width="10" height="10" rx="2" data-date="2025-09-11" data-count="0">
+<title>0 combined contributions on 2025-09-11</title>
+</rect>
+<rect class="day level-0" x="30" y="92" width="10" height="10" rx="2" data-date="2025-09-12" data-count="0">
+<title>0 combined contributions on 2025-09-12</title>
+</rect>
+<rect class="day level-0" x="30" y="106" width="10" height="10" rx="2" data-date="2025-09-13" data-count="0">
+<title>0 combined contributions on 2025-09-13</title>
+</rect>
+<rect class="day level-0" x="44" y="22" width="10" height="10" rx="2" data-date="2025-09-14" data-count="0">
+<title>0 combined contributions on 2025-09-14</title>
+</rect>
+<rect class="day level-0" x="44" y="36" width="10" height="10" rx="2" data-date="2025-09-15" data-count="0">
+<title>0 combined contributions on 2025-09-15</title>
+</rect>
+<rect class="day level-0" x="44" y="50" width="10" height="10" rx="2" data-date="2025-09-16" data-count="0">
+<title>0 combined contributions on 2025-09-16</title>
+</rect>
+<rect class="day level-0" x="44" y="64" width="10" height="10" rx="2" data-date="2025-09-17" data-count="0">
+<title>0 combined contributions on 2025-09-17</title>
+</rect>
+<rect class="day level-0" x="44" y="78" width="10" height="10" rx="2" data-date="2025-09-18" data-count="0">
+<title>0 combined contributions on 2025-09-18</title>
+</rect>
+<rect class="day level-0" x="44" y="92" width="10" height="10" rx="2" data-date="2025-09-19" data-count="0">
+<title>0 combined contributions on 2025-09-19</title>
+</rect>
+<rect class="day level-0" x="44" y="106" width="10" height="10" rx="2" data-date="2025-09-20" data-count="0">
+<title>0 combined contributions on 2025-09-20</title>
+</rect>
+<rect class="day level-0" x="58" y="22" width="10" height="10" rx="2" data-date="2025-09-21" data-count="0">
+<title>0 combined contributions on 2025-09-21</title>
+</rect>
+<rect class="day level-0" x="58" y="36" width="10" height="10" rx="2" data-date="2025-09-22" data-count="0">
+<title>0 combined contributions on 2025-09-22</title>
+</rect>
+<rect class="day level-1" x="58" y="50" width="10" height="10" rx="2" data-date="2025-09-23" data-count="1">
+<title>1 combined contribution on 2025-09-23</title>
+</rect>
+<rect class="day level-0" x="58" y="64" width="10" height="10" rx="2" data-date="2025-09-24" data-count="0">
+<title>0 combined contributions on 2025-09-24</title>
+</rect>
+<rect class="day level-0" x="58" y="78" width="10" height="10" rx="2" data-date="2025-09-25" data-count="0">
+<title>0 combined contributions on 2025-09-25</title>
+</rect>
+<rect class="day level-0" x="58" y="92" width="10" height="10" rx="2" data-date="2025-09-26" data-count="0">
+<title>0 combined contributions on 2025-09-26</title>
+</rect>
+<rect class="day level-0" x="58" y="106" width="10" height="10" rx="2" data-date="2025-09-27" data-count="0">
+<title>0 combined contributions on 2025-09-27</title>
+</rect>
+<rect class="day level-0" x="72" y="22" width="10" height="10" rx="2" data-date="2025-09-28" data-count="0">
+<title>0 combined contributions on 2025-09-28</title>
+</rect>
+<rect class="day level-0" x="72" y="36" width="10" height="10" rx="2" data-date="2025-09-29" data-count="0">
+<title>0 combined contributions on 2025-09-29</title>
+</rect>
+<rect class="day level-0" x="72" y="50" width="10" height="10" rx="2" data-date="2025-09-30" data-count="0">
+<title>0 combined contributions on 2025-09-30</title>
+</rect>
+<rect class="day level-0" x="72" y="64" width="10" height="10" rx="2" data-date="2025-10-01" data-count="0">
+<title>0 combined contributions on 2025-10-01</title>
+</rect>
+<rect class="day level-0" x="72" y="78" width="10" height="10" rx="2" data-date="2025-10-02" data-count="0">
+<title>0 combined contributions on 2025-10-02</title>
+</rect>
+<rect class="day level-0" x="72" y="92" width="10" height="10" rx="2" data-date="2025-10-03" data-count="0">
+<title>0 combined contributions on 2025-10-03</title>
+</rect>
+<rect class="day level-0" x="72" y="106" width="10" height="10" rx="2" data-date="2025-10-04" data-count="0">
+<title>0 combined contributions on 2025-10-04</title>
+</rect>
+<rect class="day level-0" x="86" y="22" width="10" height="10" rx="2" data-date="2025-10-05" data-count="0">
+<title>0 combined contributions on 2025-10-05</title>
+</rect>
+<rect class="day level-0" x="86" y="36" width="10" height="10" rx="2" data-date="2025-10-06" data-count="0">
+<title>0 combined contributions on 2025-10-06</title>
+</rect>
+<rect class="day level-0" x="86" y="50" width="10" height="10" rx="2" data-date="2025-10-07" data-count="0">
+<title>0 combined contributions on 2025-10-07</title>
+</rect>
+<rect class="day level-0" x="86" y="64" width="10" height="10" rx="2" data-date="2025-10-08" data-count="0">
+<title>0 combined contributions on 2025-10-08</title>
+</rect>
+<rect class="day level-0" x="86" y="78" width="10" height="10" rx="2" data-date="2025-10-09" data-count="0">
+<title>0 combined contributions on 2025-10-09</title>
+</rect>
+<rect class="day level-0" x="86" y="92" width="10" height="10" rx="2" data-date="2025-10-10" data-count="0">
+<title>0 combined contributions on 2025-10-10</title>
+</rect>
+<rect class="day level-0" x="86" y="106" width="10" height="10" rx="2" data-date="2025-10-11" data-count="0">
+<title>0 combined contributions on 2025-10-11</title>
+</rect>
+<rect class="day level-0" x="100" y="22" width="10" height="10" rx="2" data-date="2025-10-12" data-count="0">
+<title>0 combined contributions on 2025-10-12</title>
+</rect>
+<rect class="day level-0" x="100" y="36" width="10" height="10" rx="2" data-date="2025-10-13" data-count="0">
+<title>0 combined contributions on 2025-10-13</title>
+</rect>
+<rect class="day level-0" x="100" y="50" width="10" height="10" rx="2" data-date="2025-10-14" data-count="0">
+<title>0 combined contributions on 2025-10-14</title>
+</rect>
+<rect class="day level-0" x="100" y="64" width="10" height="10" rx="2" data-date="2025-10-15" data-count="0">
+<title>0 combined contributions on 2025-10-15</title>
+</rect>
+<rect class="day level-0" x="100" y="78" width="10" height="10" rx="2" data-date="2025-10-16" data-count="0">
+<title>0 combined contributions on 2025-10-16</title>
+</rect>
+<rect class="day level-0" x="100" y="92" width="10" height="10" rx="2" data-date="2025-10-17" data-count="0">
+<title>0 combined contributions on 2025-10-17</title>
+</rect>
+<rect class="day level-0" x="100" y="106" width="10" height="10" rx="2" data-date="2025-10-18" data-count="0">
+<title>0 combined contributions on 2025-10-18</title>
+</rect>
+<rect class="day level-0" x="114" y="22" width="10" height="10" rx="2" data-date="2025-10-19" data-count="0">
+<title>0 combined contributions on 2025-10-19</title>
+</rect>
+<rect class="day level-0" x="114" y="36" width="10" height="10" rx="2" data-date="2025-10-20" data-count="0">
+<title>0 combined contributions on 2025-10-20</title>
+</rect>
+<rect class="day level-0" x="114" y="50" width="10" height="10" rx="2" data-date="2025-10-21" data-count="0">
+<title>0 combined contributions on 2025-10-21</title>
+</rect>
+<rect class="day level-0" x="114" y="64" width="10" height="10" rx="2" data-date="2025-10-22" data-count="0">
+<title>0 combined contributions on 2025-10-22</title>
+</rect>
+<rect class="day level-0" x="114" y="78" width="10" height="10" rx="2" data-date="2025-10-23" data-count="0">
+<title>0 combined contributions on 2025-10-23</title>
+</rect>
+<rect class="day level-0" x="114" y="92" width="10" height="10" rx="2" data-date="2025-10-24" data-count="0">
+<title>0 combined contributions on 2025-10-24</title>
+</rect>
+<rect class="day level-0" x="114" y="106" width="10" height="10" rx="2" data-date="2025-10-25" data-count="0">
+<title>0 combined contributions on 2025-10-25</title>
+</rect>
+<rect class="day level-0" x="128" y="22" width="10" height="10" rx="2" data-date="2025-10-26" data-count="0">
+<title>0 combined contributions on 2025-10-26</title>
+</rect>
+<rect class="day level-0" x="128" y="36" width="10" height="10" rx="2" data-date="2025-10-27" data-count="0">
+<title>0 combined contributions on 2025-10-27</title>
+</rect>
+<rect class="day level-0" x="128" y="50" width="10" height="10" rx="2" data-date="2025-10-28" data-count="0">
+<title>0 combined contributions on 2025-10-28</title>
+</rect>
+<rect class="day level-0" x="128" y="64" width="10" height="10" rx="2" data-date="2025-10-29" data-count="0">
+<title>0 combined contributions on 2025-10-29</title>
+</rect>
+<rect class="day level-0" x="128" y="78" width="10" height="10" rx="2" data-date="2025-10-30" data-count="0">
+<title>0 combined contributions on 2025-10-30</title>
+</rect>
+<rect class="day level-0" x="128" y="92" width="10" height="10" rx="2" data-date="2025-10-31" data-count="0">
+<title>0 combined contributions on 2025-10-31</title>
+</rect>
+<rect class="day level-0" x="128" y="106" width="10" height="10" rx="2" data-date="2025-11-01" data-count="0">
+<title>0 combined contributions on 2025-11-01</title>
+</rect>
+<rect class="day level-0" x="142" y="22" width="10" height="10" rx="2" data-date="2025-11-02" data-count="0">
+<title>0 combined contributions on 2025-11-02</title>
+</rect>
+<rect class="day level-0" x="142" y="36" width="10" height="10" rx="2" data-date="2025-11-03" data-count="0">
+<title>0 combined contributions on 2025-11-03</title>
+</rect>
+<rect class="day level-0" x="142" y="50" width="10" height="10" rx="2" data-date="2025-11-04" data-count="0">
+<title>0 combined contributions on 2025-11-04</title>
+</rect>
+<rect class="day level-0" x="142" y="64" width="10" height="10" rx="2" data-date="2025-11-05" data-count="0">
+<title>0 combined contributions on 2025-11-05</title>
+</rect>
+<rect class="day level-0" x="142" y="78" width="10" height="10" rx="2" data-date="2025-11-06" data-count="0">
+<title>0 combined contributions on 2025-11-06</title>
+</rect>
+<rect class="day level-0" x="142" y="92" width="10" height="10" rx="2" data-date="2025-11-07" data-count="0">
+<title>0 combined contributions on 2025-11-07</title>
+</rect>
+<rect class="day level-1" x="142" y="106" width="10" height="10" rx="2" data-date="2025-11-08" data-count="1">
+<title>1 combined contribution on 2025-11-08</title>
+</rect>
+<rect class="day level-0" x="156" y="22" width="10" height="10" rx="2" data-date="2025-11-09" data-count="0">
+<title>0 combined contributions on 2025-11-09</title>
+</rect>
+<rect class="day level-0" x="156" y="36" width="10" height="10" rx="2" data-date="2025-11-10" data-count="0">
+<title>0 combined contributions on 2025-11-10</title>
+</rect>
+<rect class="day level-1" x="156" y="50" width="10" height="10" rx="2" data-date="2025-11-11" data-count="1">
+<title>1 combined contribution on 2025-11-11</title>
+</rect>
+<rect class="day level-0" x="156" y="64" width="10" height="10" rx="2" data-date="2025-11-12" data-count="0">
+<title>0 combined contributions on 2025-11-12</title>
+</rect>
+<rect class="day level-0" x="156" y="78" width="10" height="10" rx="2" data-date="2025-11-13" data-count="0">
+<title>0 combined contributions on 2025-11-13</title>
+</rect>
+<rect class="day level-0" x="156" y="92" width="10" height="10" rx="2" data-date="2025-11-14" data-count="0">
+<title>0 combined contributions on 2025-11-14</title>
+</rect>
+<rect class="day level-0" x="156" y="106" width="10" height="10" rx="2" data-date="2025-11-15" data-count="0">
+<title>0 combined contributions on 2025-11-15</title>
+</rect>
+<rect class="day level-0" x="170" y="22" width="10" height="10" rx="2" data-date="2025-11-16" data-count="0">
+<title>0 combined contributions on 2025-11-16</title>
+</rect>
+<rect class="day level-0" x="170" y="36" width="10" height="10" rx="2" data-date="2025-11-17" data-count="0">
+<title>0 combined contributions on 2025-11-17</title>
+</rect>
+<rect class="day level-0" x="170" y="50" width="10" height="10" rx="2" data-date="2025-11-18" data-count="0">
+<title>0 combined contributions on 2025-11-18</title>
+</rect>
+<rect class="day level-0" x="170" y="64" width="10" height="10" rx="2" data-date="2025-11-19" data-count="0">
+<title>0 combined contributions on 2025-11-19</title>
+</rect>
+<rect class="day level-0" x="170" y="78" width="10" height="10" rx="2" data-date="2025-11-20" data-count="0">
+<title>0 combined contributions on 2025-11-20</title>
+</rect>
+<rect class="day level-0" x="170" y="92" width="10" height="10" rx="2" data-date="2025-11-21" data-count="0">
+<title>0 combined contributions on 2025-11-21</title>
+</rect>
+<rect class="day level-0" x="170" y="106" width="10" height="10" rx="2" data-date="2025-11-22" data-count="0">
+<title>0 combined contributions on 2025-11-22</title>
+</rect>
+<rect class="day level-0" x="184" y="22" width="10" height="10" rx="2" data-date="2025-11-23" data-count="0">
+<title>0 combined contributions on 2025-11-23</title>
+</rect>
+<rect class="day level-0" x="184" y="36" width="10" height="10" rx="2" data-date="2025-11-24" data-count="0">
+<title>0 combined contributions on 2025-11-24</title>
+</rect>
+<rect class="day level-0" x="184" y="50" width="10" height="10" rx="2" data-date="2025-11-25" data-count="0">
+<title>0 combined contributions on 2025-11-25</title>
+</rect>
+<rect class="day level-0" x="184" y="64" width="10" height="10" rx="2" data-date="2025-11-26" data-count="0">
+<title>0 combined contributions on 2025-11-26</title>
+</rect>
+<rect class="day level-0" x="184" y="78" width="10" height="10" rx="2" data-date="2025-11-27" data-count="0">
+<title>0 combined contributions on 2025-11-27</title>
+</rect>
+<rect class="day level-0" x="184" y="92" width="10" height="10" rx="2" data-date="2025-11-28" data-count="0">
+<title>0 combined contributions on 2025-11-28</title>
+</rect>
+<rect class="day level-0" x="184" y="106" width="10" height="10" rx="2" data-date="2025-11-29" data-count="0">
+<title>0 combined contributions on 2025-11-29</title>
+</rect>
+<rect class="day level-0" x="198" y="22" width="10" height="10" rx="2" data-date="2025-11-30" data-count="0">
+<title>0 combined contributions on 2025-11-30</title>
+</rect>
+<rect class="day level-0" x="198" y="36" width="10" height="10" rx="2" data-date="2025-12-01" data-count="0">
+<title>0 combined contributions on 2025-12-01</title>
+</rect>
+<rect class="day level-0" x="198" y="50" width="10" height="10" rx="2" data-date="2025-12-02" data-count="0">
+<title>0 combined contributions on 2025-12-02</title>
+</rect>
+<rect class="day level-0" x="198" y="64" width="10" height="10" rx="2" data-date="2025-12-03" data-count="0">
+<title>0 combined contributions on 2025-12-03</title>
+</rect>
+<rect class="day level-0" x="198" y="78" width="10" height="10" rx="2" data-date="2025-12-04" data-count="0">
+<title>0 combined contributions on 2025-12-04</title>
+</rect>
+<rect class="day level-0" x="198" y="92" width="10" height="10" rx="2" data-date="2025-12-05" data-count="0">
+<title>0 combined contributions on 2025-12-05</title>
+</rect>
+<rect class="day level-0" x="198" y="106" width="10" height="10" rx="2" data-date="2025-12-06" data-count="0">
+<title>0 combined contributions on 2025-12-06</title>
+</rect>
+<rect class="day level-0" x="212" y="22" width="10" height="10" rx="2" data-date="2025-12-07" data-count="0">
+<title>0 combined contributions on 2025-12-07</title>
+</rect>
+<rect class="day level-0" x="212" y="36" width="10" height="10" rx="2" data-date="2025-12-08" data-count="0">
+<title>0 combined contributions on 2025-12-08</title>
+</rect>
+<rect class="day level-0" x="212" y="50" width="10" height="10" rx="2" data-date="2025-12-09" data-count="0">
+<title>0 combined contributions on 2025-12-09</title>
+</rect>
+<rect class="day level-0" x="212" y="64" width="10" height="10" rx="2" data-date="2025-12-10" data-count="0">
+<title>0 combined contributions on 2025-12-10</title>
+</rect>
+<rect class="day level-0" x="212" y="78" width="10" height="10" rx="2" data-date="2025-12-11" data-count="0">
+<title>0 combined contributions on 2025-12-11</title>
+</rect>
+<rect class="day level-0" x="212" y="92" width="10" height="10" rx="2" data-date="2025-12-12" data-count="0">
+<title>0 combined contributions on 2025-12-12</title>
+</rect>
+<rect class="day level-0" x="212" y="106" width="10" height="10" rx="2" data-date="2025-12-13" data-count="0">
+<title>0 combined contributions on 2025-12-13</title>
+</rect>
+<rect class="day level-0" x="226" y="22" width="10" height="10" rx="2" data-date="2025-12-14" data-count="0">
+<title>0 combined contributions on 2025-12-14</title>
+</rect>
+<rect class="day level-0" x="226" y="36" width="10" height="10" rx="2" data-date="2025-12-15" data-count="0">
+<title>0 combined contributions on 2025-12-15</title>
+</rect>
+<rect class="day level-0" x="226" y="50" width="10" height="10" rx="2" data-date="2025-12-16" data-count="0">
+<title>0 combined contributions on 2025-12-16</title>
+</rect>
+<rect class="day level-0" x="226" y="64" width="10" height="10" rx="2" data-date="2025-12-17" data-count="0">
+<title>0 combined contributions on 2025-12-17</title>
+</rect>
+<rect class="day level-0" x="226" y="78" width="10" height="10" rx="2" data-date="2025-12-18" data-count="0">
+<title>0 combined contributions on 2025-12-18</title>
+</rect>
+<rect class="day level-0" x="226" y="92" width="10" height="10" rx="2" data-date="2025-12-19" data-count="0">
+<title>0 combined contributions on 2025-12-19</title>
+</rect>
+<rect class="day level-0" x="226" y="106" width="10" height="10" rx="2" data-date="2025-12-20" data-count="0">
+<title>0 combined contributions on 2025-12-20</title>
+</rect>
+<rect class="day level-0" x="240" y="22" width="10" height="10" rx="2" data-date="2025-12-21" data-count="0">
+<title>0 combined contributions on 2025-12-21</title>
+</rect>
+<rect class="day level-0" x="240" y="36" width="10" height="10" rx="2" data-date="2025-12-22" data-count="0">
+<title>0 combined contributions on 2025-12-22</title>
+</rect>
+<rect class="day level-0" x="240" y="50" width="10" height="10" rx="2" data-date="2025-12-23" data-count="0">
+<title>0 combined contributions on 2025-12-23</title>
+</rect>
+<rect class="day level-0" x="240" y="64" width="10" height="10" rx="2" data-date="2025-12-24" data-count="0">
+<title>0 combined contributions on 2025-12-24</title>
+</rect>
+<rect class="day level-0" x="240" y="78" width="10" height="10" rx="2" data-date="2025-12-25" data-count="0">
+<title>0 combined contributions on 2025-12-25</title>
+</rect>
+<rect class="day level-0" x="240" y="92" width="10" height="10" rx="2" data-date="2025-12-26" data-count="0">
+<title>0 combined contributions on 2025-12-26</title>
+</rect>
+<rect class="day level-0" x="240" y="106" width="10" height="10" rx="2" data-date="2025-12-27" data-count="0">
+<title>0 combined contributions on 2025-12-27</title>
+</rect>
+<rect class="day level-0" x="254" y="22" width="10" height="10" rx="2" data-date="2025-12-28" data-count="0">
+<title>0 combined contributions on 2025-12-28</title>
+</rect>
+<rect class="day level-0" x="254" y="36" width="10" height="10" rx="2" data-date="2025-12-29" data-count="0">
+<title>0 combined contributions on 2025-12-29</title>
+</rect>
+<rect class="day level-0" x="254" y="50" width="10" height="10" rx="2" data-date="2025-12-30" data-count="0">
+<title>0 combined contributions on 2025-12-30</title>
+</rect>
+<rect class="day level-0" x="254" y="64" width="10" height="10" rx="2" data-date="2025-12-31" data-count="0">
+<title>0 combined contributions on 2025-12-31</title>
+</rect>
+<rect class="day level-0" x="254" y="78" width="10" height="10" rx="2" data-date="2026-01-01" data-count="0">
+<title>0 combined contributions on 2026-01-01</title>
+</rect>
+<rect class="day level-1" x="254" y="92" width="10" height="10" rx="2" data-date="2026-01-02" data-count="1">
+<title>1 combined contribution on 2026-01-02</title>
+</rect>
+<rect class="day level-1" x="254" y="106" width="10" height="10" rx="2" data-date="2026-01-03" data-count="4">
+<title>4 combined contributions on 2026-01-03</title>
+</rect>
+<rect class="day level-0" x="268" y="22" width="10" height="10" rx="2" data-date="2026-01-04" data-count="0">
+<title>0 combined contributions on 2026-01-04</title>
+</rect>
+<rect class="day level-0" x="268" y="36" width="10" height="10" rx="2" data-date="2026-01-05" data-count="0">
+<title>0 combined contributions on 2026-01-05</title>
+</rect>
+<rect class="day level-0" x="268" y="50" width="10" height="10" rx="2" data-date="2026-01-06" data-count="0">
+<title>0 combined contributions on 2026-01-06</title>
+</rect>
+<rect class="day level-0" x="268" y="64" width="10" height="10" rx="2" data-date="2026-01-07" data-count="0">
+<title>0 combined contributions on 2026-01-07</title>
+</rect>
+<rect class="day level-0" x="268" y="78" width="10" height="10" rx="2" data-date="2026-01-08" data-count="0">
+<title>0 combined contributions on 2026-01-08</title>
+</rect>
+<rect class="day level-0" x="268" y="92" width="10" height="10" rx="2" data-date="2026-01-09" data-count="0">
+<title>0 combined contributions on 2026-01-09</title>
+</rect>
+<rect class="day level-0" x="268" y="106" width="10" height="10" rx="2" data-date="2026-01-10" data-count="0">
+<title>0 combined contributions on 2026-01-10</title>
+</rect>
+<rect class="day level-0" x="282" y="22" width="10" height="10" rx="2" data-date="2026-01-11" data-count="0">
+<title>0 combined contributions on 2026-01-11</title>
+</rect>
+<rect class="day level-0" x="282" y="36" width="10" height="10" rx="2" data-date="2026-01-12" data-count="0">
+<title>0 combined contributions on 2026-01-12</title>
+</rect>
+<rect class="day level-0" x="282" y="50" width="10" height="10" rx="2" data-date="2026-01-13" data-count="0">
+<title>0 combined contributions on 2026-01-13</title>
+</rect>
+<rect class="day level-0" x="282" y="64" width="10" height="10" rx="2" data-date="2026-01-14" data-count="0">
+<title>0 combined contributions on 2026-01-14</title>
+</rect>
+<rect class="day level-0" x="282" y="78" width="10" height="10" rx="2" data-date="2026-01-15" data-count="0">
+<title>0 combined contributions on 2026-01-15</title>
+</rect>
+<rect class="day level-0" x="282" y="92" width="10" height="10" rx="2" data-date="2026-01-16" data-count="0">
+<title>0 combined contributions on 2026-01-16</title>
+</rect>
+<rect class="day level-0" x="282" y="106" width="10" height="10" rx="2" data-date="2026-01-17" data-count="0">
+<title>0 combined contributions on 2026-01-17</title>
+</rect>
+<rect class="day level-0" x="296" y="22" width="10" height="10" rx="2" data-date="2026-01-18" data-count="0">
+<title>0 combined contributions on 2026-01-18</title>
+</rect>
+<rect class="day level-0" x="296" y="36" width="10" height="10" rx="2" data-date="2026-01-19" data-count="0">
+<title>0 combined contributions on 2026-01-19</title>
+</rect>
+<rect class="day level-0" x="296" y="50" width="10" height="10" rx="2" data-date="2026-01-20" data-count="0">
+<title>0 combined contributions on 2026-01-20</title>
+</rect>
+<rect class="day level-0" x="296" y="64" width="10" height="10" rx="2" data-date="2026-01-21" data-count="0">
+<title>0 combined contributions on 2026-01-21</title>
+</rect>
+<rect class="day level-1" x="296" y="78" width="10" height="10" rx="2" data-date="2026-01-22" data-count="2">
+<title>2 combined contributions on 2026-01-22</title>
+</rect>
+<rect class="day level-1" x="296" y="92" width="10" height="10" rx="2" data-date="2026-01-23" data-count="6">
+<title>6 combined contributions on 2026-01-23</title>
+</rect>
+<rect class="day level-1" x="296" y="106" width="10" height="10" rx="2" data-date="2026-01-24" data-count="1">
+<title>1 combined contribution on 2026-01-24</title>
+</rect>
+<rect class="day level-0" x="310" y="22" width="10" height="10" rx="2" data-date="2026-01-25" data-count="0">
+<title>0 combined contributions on 2026-01-25</title>
+</rect>
+<rect class="day level-0" x="310" y="36" width="10" height="10" rx="2" data-date="2026-01-26" data-count="0">
+<title>0 combined contributions on 2026-01-26</title>
+</rect>
+<rect class="day level-1" x="310" y="50" width="10" height="10" rx="2" data-date="2026-01-27" data-count="3">
+<title>3 combined contributions on 2026-01-27</title>
+</rect>
+<rect class="day level-1" x="310" y="64" width="10" height="10" rx="2" data-date="2026-01-28" data-count="1">
+<title>1 combined contribution on 2026-01-28</title>
+</rect>
+<rect class="day level-1" x="310" y="78" width="10" height="10" rx="2" data-date="2026-01-29" data-count="1">
+<title>1 combined contribution on 2026-01-29</title>
+</rect>
+<rect class="day level-0" x="310" y="92" width="10" height="10" rx="2" data-date="2026-01-30" data-count="0">
+<title>0 combined contributions on 2026-01-30</title>
+</rect>
+<rect class="day level-1" x="310" y="106" width="10" height="10" rx="2" data-date="2026-01-31" data-count="3">
+<title>3 combined contributions on 2026-01-31</title>
+</rect>
+<rect class="day level-0" x="324" y="22" width="10" height="10" rx="2" data-date="2026-02-01" data-count="0">
+<title>0 combined contributions on 2026-02-01</title>
+</rect>
+<rect class="day level-0" x="324" y="36" width="10" height="10" rx="2" data-date="2026-02-02" data-count="0">
+<title>0 combined contributions on 2026-02-02</title>
+</rect>
+<rect class="day level-3" x="324" y="50" width="10" height="10" rx="2" data-date="2026-02-03" data-count="21">
+<title>21 combined contributions on 2026-02-03</title>
+</rect>
+<rect class="day level-2" x="324" y="64" width="10" height="10" rx="2" data-date="2026-02-04" data-count="7">
+<title>7 combined contributions on 2026-02-04</title>
+</rect>
+<rect class="day level-2" x="324" y="78" width="10" height="10" rx="2" data-date="2026-02-05" data-count="10">
+<title>10 combined contributions on 2026-02-05</title>
+</rect>
+<rect class="day level-4" x="324" y="92" width="10" height="10" rx="2" data-date="2026-02-06" data-count="30">
+<title>30 combined contributions on 2026-02-06</title>
+</rect>
+<rect class="day level-1" x="324" y="106" width="10" height="10" rx="2" data-date="2026-02-07" data-count="3">
+<title>3 combined contributions on 2026-02-07</title>
+</rect>
+<rect class="day level-0" x="338" y="22" width="10" height="10" rx="2" data-date="2026-02-08" data-count="0">
+<title>0 combined contributions on 2026-02-08</title>
+</rect>
+<rect class="day level-2" x="338" y="36" width="10" height="10" rx="2" data-date="2026-02-09" data-count="8">
+<title>8 combined contributions on 2026-02-09</title>
+</rect>
+<rect class="day level-2" x="338" y="50" width="10" height="10" rx="2" data-date="2026-02-10" data-count="11">
+<title>11 combined contributions on 2026-02-10</title>
+</rect>
+<rect class="day level-1" x="338" y="64" width="10" height="10" rx="2" data-date="2026-02-11" data-count="4">
+<title>4 combined contributions on 2026-02-11</title>
+</rect>
+<rect class="day level-1" x="338" y="78" width="10" height="10" rx="2" data-date="2026-02-12" data-count="6">
+<title>6 combined contributions on 2026-02-12</title>
+</rect>
+<rect class="day level-0" x="338" y="92" width="10" height="10" rx="2" data-date="2026-02-13" data-count="0">
+<title>0 combined contributions on 2026-02-13</title>
+</rect>
+<rect class="day level-0" x="338" y="106" width="10" height="10" rx="2" data-date="2026-02-14" data-count="0">
+<title>0 combined contributions on 2026-02-14</title>
+</rect>
+<rect class="day level-0" x="352" y="22" width="10" height="10" rx="2" data-date="2026-02-15" data-count="0">
+<title>0 combined contributions on 2026-02-15</title>
+</rect>
+<rect class="day level-2" x="352" y="36" width="10" height="10" rx="2" data-date="2026-02-16" data-count="12">
+<title>12 combined contributions on 2026-02-16</title>
+</rect>
+<rect class="day level-2" x="352" y="50" width="10" height="10" rx="2" data-date="2026-02-17" data-count="10">
+<title>10 combined contributions on 2026-02-17</title>
+</rect>
+<rect class="day level-2" x="352" y="64" width="10" height="10" rx="2" data-date="2026-02-18" data-count="7">
+<title>7 combined contributions on 2026-02-18</title>
+</rect>
+<rect class="day level-2" x="352" y="78" width="10" height="10" rx="2" data-date="2026-02-19" data-count="11">
+<title>11 combined contributions on 2026-02-19</title>
+</rect>
+<rect class="day level-2" x="352" y="92" width="10" height="10" rx="2" data-date="2026-02-20" data-count="9">
+<title>9 combined contributions on 2026-02-20</title>
+</rect>
+<rect class="day level-1" x="352" y="106" width="10" height="10" rx="2" data-date="2026-02-21" data-count="6">
+<title>6 combined contributions on 2026-02-21</title>
+</rect>
+<rect class="day level-1" x="366" y="22" width="10" height="10" rx="2" data-date="2026-02-22" data-count="1">
+<title>1 combined contribution on 2026-02-22</title>
+</rect>
+<rect class="day level-1" x="366" y="36" width="10" height="10" rx="2" data-date="2026-02-23" data-count="2">
+<title>2 combined contributions on 2026-02-23</title>
+</rect>
+<rect class="day level-0" x="366" y="50" width="10" height="10" rx="2" data-date="2026-02-24" data-count="0">
+<title>0 combined contributions on 2026-02-24</title>
+</rect>
+<rect class="day level-1" x="366" y="64" width="10" height="10" rx="2" data-date="2026-02-25" data-count="3">
+<title>3 combined contributions on 2026-02-25</title>
+</rect>
+<rect class="day level-1" x="366" y="78" width="10" height="10" rx="2" data-date="2026-02-26" data-count="5">
+<title>5 combined contributions on 2026-02-26</title>
+</rect>
+<rect class="day level-2" x="366" y="92" width="10" height="10" rx="2" data-date="2026-02-27" data-count="8">
+<title>8 combined contributions on 2026-02-27</title>
+</rect>
+<rect class="day level-1" x="366" y="106" width="10" height="10" rx="2" data-date="2026-02-28" data-count="1">
+<title>1 combined contribution on 2026-02-28</title>
+</rect>
+<rect class="day level-0" x="380" y="22" width="10" height="10" rx="2" data-date="2026-03-01" data-count="0">
+<title>0 combined contributions on 2026-03-01</title>
+</rect>
+<rect class="day level-3" x="380" y="36" width="10" height="10" rx="2" data-date="2026-03-02" data-count="21">
+<title>21 combined contributions on 2026-03-02</title>
+</rect>
+<rect class="day level-3" x="380" y="50" width="10" height="10" rx="2" data-date="2026-03-03" data-count="28">
+<title>28 combined contributions on 2026-03-03</title>
+</rect>
+<rect class="day level-3" x="380" y="64" width="10" height="10" rx="2" data-date="2026-03-04" data-count="24">
+<title>24 combined contributions on 2026-03-04</title>
+</rect>
+<rect class="day level-0" x="380" y="78" width="10" height="10" rx="2" data-date="2026-03-05" data-count="0">
+<title>0 combined contributions on 2026-03-05</title>
+</rect>
+<rect class="day level-1" x="380" y="92" width="10" height="10" rx="2" data-date="2026-03-06" data-count="6">
+<title>6 combined contributions on 2026-03-06</title>
+</rect>
+<rect class="day level-0" x="380" y="106" width="10" height="10" rx="2" data-date="2026-03-07" data-count="0">
+<title>0 combined contributions on 2026-03-07</title>
+</rect>
+<rect class="day level-0" x="394" y="22" width="10" height="10" rx="2" data-date="2026-03-08" data-count="0">
+<title>0 combined contributions on 2026-03-08</title>
+</rect>
+<rect class="day level-0" x="394" y="36" width="10" height="10" rx="2" data-date="2026-03-09" data-count="0">
+<title>0 combined contributions on 2026-03-09</title>
+</rect>
+<rect class="day level-3" x="394" y="50" width="10" height="10" rx="2" data-date="2026-03-10" data-count="18">
+<title>18 combined contributions on 2026-03-10</title>
+</rect>
+<rect class="day level-3" x="394" y="64" width="10" height="10" rx="2" data-date="2026-03-11" data-count="19">
+<title>19 combined contributions on 2026-03-11</title>
+</rect>
+<rect class="day level-3" x="394" y="78" width="10" height="10" rx="2" data-date="2026-03-12" data-count="15">
+<title>15 combined contributions on 2026-03-12</title>
+</rect>
+<rect class="day level-3" x="394" y="92" width="10" height="10" rx="2" data-date="2026-03-13" data-count="17">
+<title>17 combined contributions on 2026-03-13</title>
+</rect>
+<rect class="day level-1" x="394" y="106" width="10" height="10" rx="2" data-date="2026-03-14" data-count="2">
+<title>2 combined contributions on 2026-03-14</title>
+</rect>
+<rect class="day level-0" x="408" y="22" width="10" height="10" rx="2" data-date="2026-03-15" data-count="0">
+<title>0 combined contributions on 2026-03-15</title>
+</rect>
+<rect class="day level-0" x="408" y="36" width="10" height="10" rx="2" data-date="2026-03-16" data-count="0">
+<title>0 combined contributions on 2026-03-16</title>
+</rect>
+<rect class="day level-3" x="408" y="50" width="10" height="10" rx="2" data-date="2026-03-17" data-count="21">
+<title>21 combined contributions on 2026-03-17</title>
+</rect>
+<rect class="day level-3" x="408" y="64" width="10" height="10" rx="2" data-date="2026-03-18" data-count="17">
+<title>17 combined contributions on 2026-03-18</title>
+</rect>
+<rect class="day level-3" x="408" y="78" width="10" height="10" rx="2" data-date="2026-03-19" data-count="24">
+<title>24 combined contributions on 2026-03-19</title>
+</rect>
+<rect class="day level-3" x="408" y="92" width="10" height="10" rx="2" data-date="2026-03-20" data-count="19">
+<title>19 combined contributions on 2026-03-20</title>
+</rect>
+<rect class="day level-2" x="408" y="106" width="10" height="10" rx="2" data-date="2026-03-21" data-count="9">
+<title>9 combined contributions on 2026-03-21</title>
+</rect>
+<rect class="day level-0" x="422" y="22" width="10" height="10" rx="2" data-date="2026-03-22" data-count="0">
+<title>0 combined contributions on 2026-03-22</title>
+</rect>
+<rect class="day level-4" x="422" y="36" width="10" height="10" rx="2" data-date="2026-03-23" data-count="32">
+<title>32 combined contributions on 2026-03-23</title>
+</rect>
+<rect class="day level-4" x="422" y="50" width="10" height="10" rx="2" data-date="2026-03-24" data-count="32">
+<title>32 combined contributions on 2026-03-24</title>
+</rect>
+<rect class="day level-3" x="422" y="64" width="10" height="10" rx="2" data-date="2026-03-25" data-count="28">
+<title>28 combined contributions on 2026-03-25</title>
+</rect>
+<rect class="day level-2" x="422" y="78" width="10" height="10" rx="2" data-date="2026-03-26" data-count="9">
+<title>9 combined contributions on 2026-03-26</title>
+</rect>
+<rect class="day level-2" x="422" y="92" width="10" height="10" rx="2" data-date="2026-03-27" data-count="12">
+<title>12 combined contributions on 2026-03-27</title>
+</rect>
+<rect class="day level-0" x="422" y="106" width="10" height="10" rx="2" data-date="2026-03-28" data-count="0">
+<title>0 combined contributions on 2026-03-28</title>
+</rect>
+<rect class="day level-0" x="436" y="22" width="10" height="10" rx="2" data-date="2026-03-29" data-count="0">
+<title>0 combined contributions on 2026-03-29</title>
+</rect>
+<rect class="day level-2" x="436" y="36" width="10" height="10" rx="2" data-date="2026-03-30" data-count="11">
+<title>11 combined contributions on 2026-03-30</title>
+</rect>
+<rect class="day level-4" x="436" y="50" width="10" height="10" rx="2" data-date="2026-03-31" data-count="30">
+<title>30 combined contributions on 2026-03-31</title>
+</rect>
+<rect class="day level-1" x="436" y="64" width="10" height="10" rx="2" data-date="2026-04-01" data-count="6">
+<title>6 combined contributions on 2026-04-01</title>
+</rect>
+<rect class="day level-0" x="436" y="78" width="10" height="10" rx="2" data-date="2026-04-02" data-count="0">
+<title>0 combined contributions on 2026-04-02</title>
+</rect>
+<rect class="day level-0" x="436" y="92" width="10" height="10" rx="2" data-date="2026-04-03" data-count="0">
+<title>0 combined contributions on 2026-04-03</title>
+</rect>
+<rect class="day level-0" x="436" y="106" width="10" height="10" rx="2" data-date="2026-04-04" data-count="0">
+<title>0 combined contributions on 2026-04-04</title>
+</rect>
+<rect class="day level-0" x="450" y="22" width="10" height="10" rx="2" data-date="2026-04-05" data-count="0">
+<title>0 combined contributions on 2026-04-05</title>
+</rect>
+<rect class="day level-0" x="450" y="36" width="10" height="10" rx="2" data-date="2026-04-06" data-count="0">
+<title>0 combined contributions on 2026-04-06</title>
+</rect>
+<rect class="day level-0" x="450" y="50" width="10" height="10" rx="2" data-date="2026-04-07" data-count="0">
+<title>0 combined contributions on 2026-04-07</title>
+</rect>
+<rect class="day level-0" x="450" y="64" width="10" height="10" rx="2" data-date="2026-04-08" data-count="0">
+<title>0 combined contributions on 2026-04-08</title>
+</rect>
+<rect class="day level-1" x="450" y="78" width="10" height="10" rx="2" data-date="2026-04-09" data-count="1">
+<title>1 combined contribution on 2026-04-09</title>
+</rect>
+<rect class="day level-0" x="450" y="92" width="10" height="10" rx="2" data-date="2026-04-10" data-count="0">
+<title>0 combined contributions on 2026-04-10</title>
+</rect>
+<rect class="day level-0" x="450" y="106" width="10" height="10" rx="2" data-date="2026-04-11" data-count="0">
+<title>0 combined contributions on 2026-04-11</title>
+</rect>
+<rect class="day level-0" x="464" y="22" width="10" height="10" rx="2" data-date="2026-04-12" data-count="0">
+<title>0 combined contributions on 2026-04-12</title>
+</rect>
+<rect class="day level-0" x="464" y="36" width="10" height="10" rx="2" data-date="2026-04-13" data-count="0">
+<title>0 combined contributions on 2026-04-13</title>
+</rect>
+<rect class="day level-0" x="464" y="50" width="10" height="10" rx="2" data-date="2026-04-14" data-count="0">
+<title>0 combined contributions on 2026-04-14</title>
+</rect>
+<rect class="day level-0" x="464" y="64" width="10" height="10" rx="2" data-date="2026-04-15" data-count="0">
+<title>0 combined contributions on 2026-04-15</title>
+</rect>
+<rect class="day level-0" x="464" y="78" width="10" height="10" rx="2" data-date="2026-04-16" data-count="0">
+<title>0 combined contributions on 2026-04-16</title>
+</rect>
+<rect class="day level-4" x="464" y="92" width="10" height="10" rx="2" data-date="2026-04-17" data-count="33">
+<title>33 combined contributions on 2026-04-17</title>
+</rect>
+<rect class="day level-0" x="464" y="106" width="10" height="10" rx="2" data-date="2026-04-18" data-count="0">
+<title>0 combined contributions on 2026-04-18</title>
+</rect>
+<rect class="day level-0" x="478" y="22" width="10" height="10" rx="2" data-date="2026-04-19" data-count="0">
+<title>0 combined contributions on 2026-04-19</title>
+</rect>
+<rect class="day level-0" x="478" y="36" width="10" height="10" rx="2" data-date="2026-04-20" data-count="0">
+<title>0 combined contributions on 2026-04-20</title>
+</rect>
+<rect class="day level-0" x="478" y="50" width="10" height="10" rx="2" data-date="2026-04-21" data-count="0">
+<title>0 combined contributions on 2026-04-21</title>
+</rect>
+<rect class="day level-1" x="478" y="64" width="10" height="10" rx="2" data-date="2026-04-22" data-count="1">
+<title>1 combined contribution on 2026-04-22</title>
+</rect>
+<rect class="day level-1" x="478" y="78" width="10" height="10" rx="2" data-date="2026-04-23" data-count="4">
+<title>4 combined contributions on 2026-04-23</title>
+</rect>
+<rect class="day level-2" x="478" y="92" width="10" height="10" rx="2" data-date="2026-04-24" data-count="7">
+<title>7 combined contributions on 2026-04-24</title>
+</rect>
+<rect class="day level-1" x="478" y="106" width="10" height="10" rx="2" data-date="2026-04-25" data-count="5">
+<title>5 combined contributions on 2026-04-25</title>
+</rect>
+<rect class="day level-0" x="492" y="22" width="10" height="10" rx="2" data-date="2026-04-26" data-count="0">
+<title>0 combined contributions on 2026-04-26</title>
+</rect>
+<rect class="day level-3" x="492" y="36" width="10" height="10" rx="2" data-date="2026-04-27" data-count="15">
+<title>15 combined contributions on 2026-04-27</title>
+</rect>
+<rect class="day level-2" x="492" y="50" width="10" height="10" rx="2" data-date="2026-04-28" data-count="13">
+<title>13 combined contributions on 2026-04-28</title>
+</rect>
+<rect class="day level-1" x="492" y="64" width="10" height="10" rx="2" data-date="2026-04-29" data-count="2">
+<title>2 combined contributions on 2026-04-29</title>
+</rect>
+<rect class="day level-0" x="492" y="78" width="10" height="10" rx="2" data-date="2026-04-30" data-count="0">
+<title>0 combined contributions on 2026-04-30</title>
+</rect>
+<rect class="day level-0" x="492" y="92" width="10" height="10" rx="2" data-date="2026-05-01" data-count="0">
+<title>0 combined contributions on 2026-05-01</title>
+</rect>
+<rect class="day level-2" x="492" y="106" width="10" height="10" rx="2" data-date="2026-05-02" data-count="7">
+<title>7 combined contributions on 2026-05-02</title>
+</rect>
+<rect class="day level-0" x="506" y="22" width="10" height="10" rx="2" data-date="2026-05-03" data-count="0">
+<title>0 combined contributions on 2026-05-03</title>
+</rect>
+<rect class="day level-4" x="506" y="36" width="10" height="10" rx="2" data-date="2026-05-04" data-count="30">
+<title>30 combined contributions on 2026-05-04</title>
+</rect>
+<rect class="day level-1" x="506" y="50" width="10" height="10" rx="2" data-date="2026-05-05" data-count="6">
+<title>6 combined contributions on 2026-05-05</title>
+</rect>
+<rect class="day level-1" x="506" y="64" width="10" height="10" rx="2" data-date="2026-05-06" data-count="2">
+<title>2 combined contributions on 2026-05-06</title>
+</rect>
+<rect class="day level-3" x="506" y="78" width="10" height="10" rx="2" data-date="2026-05-07" data-count="25">
+<title>25 combined contributions on 2026-05-07</title>
+</rect>
+<rect class="day level-4" x="506" y="92" width="10" height="10" rx="2" data-date="2026-05-08" data-count="33">
+<title>33 combined contributions on 2026-05-08</title>
+</rect>
+<rect class="day level-2" x="506" y="106" width="10" height="10" rx="2" data-date="2026-05-09" data-count="13">
+<title>13 combined contributions on 2026-05-09</title>
+</rect>
+<rect class="day level-0" x="520" y="22" width="10" height="10" rx="2" data-date="2026-05-10" data-count="0">
+<title>0 combined contributions on 2026-05-10</title>
+</rect>
+<rect class="day level-1" x="520" y="36" width="10" height="10" rx="2" data-date="2026-05-11" data-count="1">
+<title>1 combined contribution on 2026-05-11</title>
+</rect>
+<rect class="day level-1" x="520" y="50" width="10" height="10" rx="2" data-date="2026-05-12" data-count="4">
+<title>4 combined contributions on 2026-05-12</title>
+</rect>
+<rect class="day level-2" x="520" y="64" width="10" height="10" rx="2" data-date="2026-05-13" data-count="11">
+<title>11 combined contributions on 2026-05-13</title>
+</rect>
+<rect class="day level-3" x="520" y="78" width="10" height="10" rx="2" data-date="2026-05-14" data-count="28">
+<title>28 combined contributions on 2026-05-14</title>
+</rect>
+<rect class="day level-4" x="520" y="92" width="10" height="10" rx="2" data-date="2026-05-15" data-count="65">
+<title>65 combined contributions on 2026-05-15</title>
+</rect>
+<rect class="day level-2" x="520" y="106" width="10" height="10" rx="2" data-date="2026-05-16" data-count="13">
+<title>13 combined contributions on 2026-05-16</title>
+</rect>
+<rect class="day level-1" x="534" y="22" width="10" height="10" rx="2" data-date="2026-05-17" data-count="6">
+<title>6 combined contributions on 2026-05-17</title>
+</rect>
+<rect class="day level-4" x="534" y="36" width="10" height="10" rx="2" data-date="2026-05-18" data-count="53">
+<title>53 combined contributions on 2026-05-18</title>
+</rect>
+<rect class="day level-4" x="534" y="50" width="10" height="10" rx="2" data-date="2026-05-19" data-count="47">
+<title>47 combined contributions on 2026-05-19</title>
+</rect>
+<rect class="day level-2" x="534" y="64" width="10" height="10" rx="2" data-date="2026-05-20" data-count="8">
+<title>8 combined contributions on 2026-05-20</title>
+</rect>
+<rect class="day level-4" x="534" y="78" width="10" height="10" rx="2" data-date="2026-05-21" data-count="39">
+<title>39 combined contributions on 2026-05-21</title>
+</rect>
+<rect class="day level-4" x="534" y="92" width="10" height="10" rx="2" data-date="2026-05-22" data-count="97">
+<title>97 combined contributions on 2026-05-22</title>
+</rect>
+<rect class="day level-4" x="534" y="106" width="10" height="10" rx="2" data-date="2026-05-23" data-count="30">
+<title>30 combined contributions on 2026-05-23</title>
+</rect>
+<rect class="day level-0" x="548" y="22" width="10" height="10" rx="2" data-date="2026-05-24" data-count="0">
+<title>0 combined contributions on 2026-05-24</title>
+</rect>
+<rect class="day level-2" x="548" y="36" width="10" height="10" rx="2" data-date="2026-05-25" data-count="8">
+<title>8 combined contributions on 2026-05-25</title>
+</rect>
+<rect class="day level-1" x="548" y="50" width="10" height="10" rx="2" data-date="2026-05-26" data-count="1">
+<title>1 combined contribution on 2026-05-26</title>
+</rect>
+<rect class="day level-2" x="548" y="64" width="10" height="10" rx="2" data-date="2026-05-27" data-count="8">
+<title>8 combined contributions on 2026-05-27</title>
+</rect>
+<rect class="day level-1" x="548" y="78" width="10" height="10" rx="2" data-date="2026-05-28" data-count="5">
+<title>5 combined contributions on 2026-05-28</title>
+</rect>
+<rect class="day level-3" x="548" y="92" width="10" height="10" rx="2" data-date="2026-05-29" data-count="22">
+<title>22 combined contributions on 2026-05-29</title>
+</rect>
+<rect class="day level-2" x="548" y="106" width="10" height="10" rx="2" data-date="2026-05-30" data-count="7">
+<title>7 combined contributions on 2026-05-30</title>
+</rect>
+<rect class="day level-0" x="562" y="22" width="10" height="10" rx="2" data-date="2026-05-31" data-count="0">
+<title>0 combined contributions on 2026-05-31</title>
+</rect>
+<rect class="day level-4" x="562" y="36" width="10" height="10" rx="2" data-date="2026-06-01" data-count="34">
+<title>34 combined contributions on 2026-06-01</title>
+</rect>
+<rect class="day level-4" x="562" y="50" width="10" height="10" rx="2" data-date="2026-06-02" data-count="42">
+<title>42 combined contributions on 2026-06-02</title>
+</rect>
+<rect class="day level-4" x="562" y="64" width="10" height="10" rx="2" data-date="2026-06-03" data-count="59">
+<title>59 combined contributions on 2026-06-03</title>
+</rect>
+<rect class="day level-4" x="562" y="78" width="10" height="10" rx="2" data-date="2026-06-04" data-count="40">
+<title>40 combined contributions on 2026-06-04</title>
+</rect>
+<rect class="day level-4" x="562" y="92" width="10" height="10" rx="2" data-date="2026-06-05" data-count="50">
+<title>50 combined contributions on 2026-06-05</title>
+</rect>
+<rect class="day level-2" x="562" y="106" width="10" height="10" rx="2" data-date="2026-06-06" data-count="13">
+<title>13 combined contributions on 2026-06-06</title>
+</rect>
+<rect class="day level-0" x="576" y="22" width="10" height="10" rx="2" data-date="2026-06-07" data-count="0">
+<title>0 combined contributions on 2026-06-07</title>
+</rect>
+<rect class="day level-3" x="576" y="36" width="10" height="10" rx="2" data-date="2026-06-08" data-count="14">
+<title>14 combined contributions on 2026-06-08</title>
+</rect>
+<rect class="day level-2" x="576" y="50" width="10" height="10" rx="2" data-date="2026-06-09" data-count="11">
+<title>11 combined contributions on 2026-06-09</title>
+</rect>
+<rect class="day level-3" x="576" y="64" width="10" height="10" rx="2" data-date="2026-06-10" data-count="26">
+<title>26 combined contributions on 2026-06-10</title>
+</rect>
+<rect class="day level-4" x="576" y="78" width="10" height="10" rx="2" data-date="2026-06-11" data-count="29">
+<title>29 combined contributions on 2026-06-11</title>
+</rect>
+<rect class="day level-2" x="576" y="92" width="10" height="10" rx="2" data-date="2026-06-12" data-count="8">
+<title>8 combined contributions on 2026-06-12</title>
+</rect>
+<rect class="day level-0" x="576" y="106" width="10" height="10" rx="2" data-date="2026-06-13" data-count="0">
+<title>0 combined contributions on 2026-06-13</title>
+</rect>
+<rect class="day level-0" x="590" y="22" width="10" height="10" rx="2" data-date="2026-06-14" data-count="0">
+<title>0 combined contributions on 2026-06-14</title>
+</rect>
+<rect class="day level-2" x="590" y="36" width="10" height="10" rx="2" data-date="2026-06-15" data-count="8">
+<title>8 combined contributions on 2026-06-15</title>
+</rect>
+<rect class="day level-1" x="590" y="50" width="10" height="10" rx="2" data-date="2026-06-16" data-count="6">
+<title>6 combined contributions on 2026-06-16</title>
+</rect>
+<rect class="day level-2" x="590" y="64" width="10" height="10" rx="2" data-date="2026-06-17" data-count="10">
+<title>10 combined contributions on 2026-06-17</title>
+</rect>
+<rect class="day level-2" x="590" y="78" width="10" height="10" rx="2" data-date="2026-06-18" data-count="9">
+<title>9 combined contributions on 2026-06-18</title>
+</rect>
+<rect class="day level-3" x="590" y="92" width="10" height="10" rx="2" data-date="2026-06-19" data-count="18">
+<title>18 combined contributions on 2026-06-19</title>
+</rect>
+<rect class="day level-2" x="590" y="106" width="10" height="10" rx="2" data-date="2026-06-20" data-count="12">
+<title>12 combined contributions on 2026-06-20</title>
+</rect>
+<rect class="day level-0" x="604" y="22" width="10" height="10" rx="2" data-date="2026-06-21" data-count="0">
+<title>0 combined contributions on 2026-06-21</title>
+</rect>
+<rect class="day level-3" x="604" y="36" width="10" height="10" rx="2" data-date="2026-06-22" data-count="22">
+<title>22 combined contributions on 2026-06-22</title>
+</rect>
+<rect class="day level-2" x="604" y="50" width="10" height="10" rx="2" data-date="2026-06-23" data-count="13">
+<title>13 combined contributions on 2026-06-23</title>
+</rect>
+<rect class="day level-3" x="604" y="64" width="10" height="10" rx="2" data-date="2026-06-24" data-count="26">
+<title>26 combined contributions on 2026-06-24</title>
+</rect>
+<rect class="day level-3" x="604" y="78" width="10" height="10" rx="2" data-date="2026-06-25" data-count="17">
+<title>17 combined contributions on 2026-06-25</title>
+</rect>
+<rect class="day level-4" x="604" y="92" width="10" height="10" rx="2" data-date="2026-06-26" data-count="77">
+<title>77 combined contributions on 2026-06-26</title>
+</rect>
+<rect class="day level-2" x="604" y="106" width="10" height="10" rx="2" data-date="2026-06-27" data-count="8">
+<title>8 combined contributions on 2026-06-27</title>
+</rect>
+<rect class="day level-0" x="618" y="22" width="10" height="10" rx="2" data-date="2026-06-28" data-count="0">
+<title>0 combined contributions on 2026-06-28</title>
+</rect>
+<rect class="day level-2" x="618" y="36" width="10" height="10" rx="2" data-date="2026-06-29" data-count="10">
+<title>10 combined contributions on 2026-06-29</title>
+</rect>
+<rect class="day level-1" x="618" y="50" width="10" height="10" rx="2" data-date="2026-06-30" data-count="2">
+<title>2 combined contributions on 2026-06-30</title>
+</rect>
+<rect class="day level-2" x="618" y="64" width="10" height="10" rx="2" data-date="2026-07-01" data-count="8">
+<title>8 combined contributions on 2026-07-01</title>
+</rect>
+<rect class="day level-3" x="618" y="78" width="10" height="10" rx="2" data-date="2026-07-02" data-count="19">
+<title>19 combined contributions on 2026-07-02</title>
+</rect>
+<rect class="day level-3" x="618" y="92" width="10" height="10" rx="2" data-date="2026-07-03" data-count="26">
+<title>26 combined contributions on 2026-07-03</title>
+</rect>
+<rect class="day level-3" x="618" y="106" width="10" height="10" rx="2" data-date="2026-07-04" data-count="17">
+<title>17 combined contributions on 2026-07-04</title>
+</rect>
+<rect class="day level-1" x="632" y="22" width="10" height="10" rx="2" data-date="2026-07-05" data-count="3">
+<title>3 combined contributions on 2026-07-05</title>
+</rect>
+<rect class="day level-3" x="632" y="36" width="10" height="10" rx="2" data-date="2026-07-06" data-count="25">
+<title>25 combined contributions on 2026-07-06</title>
+</rect>
+<rect class="day level-4" x="632" y="50" width="10" height="10" rx="2" data-date="2026-07-07" data-count="31">
+<title>31 combined contributions on 2026-07-07</title>
+</rect>
+<rect class="day level-4" x="632" y="64" width="10" height="10" rx="2" data-date="2026-07-08" data-count="31">
+<title>31 combined contributions on 2026-07-08</title>
+</rect>
+<rect class="day level-3" x="632" y="78" width="10" height="10" rx="2" data-date="2026-07-09" data-count="19">
+<title>19 combined contributions on 2026-07-09</title>
+</rect>
+<rect class="day level-3" x="632" y="92" width="10" height="10" rx="2" data-date="2026-07-10" data-count="20">
+<title>20 combined contributions on 2026-07-10</title>
+</rect>
+<rect class="day level-4" x="632" y="106" width="10" height="10" rx="2" data-date="2026-07-11" data-count="45">
+<title>45 combined contributions on 2026-07-11</title>
+</rect>
+<rect class="day level-0" x="646" y="22" width="10" height="10" rx="2" data-date="2026-07-12" data-count="0">
+<title>0 combined contributions on 2026-07-12</title>
+</rect>
+<rect class="day level-4" x="646" y="36" width="10" height="10" rx="2" data-date="2026-07-13" data-count="57">
+<title>57 combined contributions on 2026-07-13</title>
+</rect>
+<rect class="day level-4" x="646" y="50" width="10" height="10" rx="2" data-date="2026-07-14" data-count="51">
+<title>51 combined contributions on 2026-07-14</title>
+</rect>
+<rect class="day level-3" x="646" y="64" width="10" height="10" rx="2" data-date="2026-07-15" data-count="26">
+<title>26 combined contributions on 2026-07-15</title>
+</rect>
+<rect class="day level-2" x="646" y="78" width="10" height="10" rx="2" data-date="2026-07-16" data-count="7">
+<title>7 combined contributions on 2026-07-16</title>
+</rect>
+<rect class="day level-1" x="646" y="92" width="10" height="10" rx="2" data-date="2026-07-17" data-count="1">
+<title>1 combined contribution on 2026-07-17</title>
+</rect>
+<rect class="day level-1" x="646" y="106" width="10" height="10" rx="2" data-date="2026-07-18" data-count="1">
+<title>1 combined contribution on 2026-07-18</title>
+</rect>
+<rect class="day level-0" x="660" y="22" width="10" height="10" rx="2" data-date="2026-07-19" data-count="0">
+<title>0 combined contributions on 2026-07-19</title>
+</rect>
+<rect class="day level-1" x="660" y="36" width="10" height="10" rx="2" data-date="2026-07-20" data-count="1">
+<title>1 combined contribution on 2026-07-20</title>
+</rect>
+<rect class="day level-0" x="660" y="50" width="10" height="10" rx="2" data-date="2026-07-21" data-count="0">
+<title>0 combined contributions on 2026-07-21</title>
+</rect>
+<rect class="day level-1" x="660" y="64" width="10" height="10" rx="2" data-date="2026-07-22" data-count="4">
+<title>4 combined contributions on 2026-07-22</title>
+</rect>
+<rect class="day level-2" x="660" y="78" width="10" height="10" rx="2" data-date="2026-07-23" data-count="11">
+<title>11 combined contributions on 2026-07-23</title>
+</rect>
+<rect class="day level-2" x="660" y="92" width="10" height="10" rx="2" data-date="2026-07-24" data-count="12">
+<title>12 combined contributions on 2026-07-24</title>
+</rect>
+<rect class="day level-2" x="660" y="106" width="10" height="10" rx="2" data-date="2026-07-25" data-count="9">
+<title>9 combined contributions on 2026-07-25</title>
+</rect>
+<rect class="day level-0" x="674" y="22" width="10" height="10" rx="2" data-date="2026-07-26" data-count="0">
+<title>0 combined contributions on 2026-07-26</title>
+</rect>
+<rect class="day level-0" x="674" y="36" width="10" height="10" rx="2" data-date="2026-07-27" data-count="0">
+<title>0 combined contributions on 2026-07-27</title>
+</rect>
+<rect class="day level-4" x="674" y="50" width="10" height="10" rx="2" data-date="2026-07-28" data-count="70">
+<title>70 combined contributions on 2026-07-28</title>
+</rect>
+<rect class="day level-4" x="674" y="64" width="10" height="10" rx="2" data-date="2026-07-29" data-count="73">
+<title>73 combined contributions on 2026-07-29</title>
+</rect>
+<rect class="day level-3" x="674" y="78" width="10" height="10" rx="2" data-date="2026-07-30" data-count="16">
+<title>16 combined contributions on 2026-07-30</title>
+</rect>
+<rect class="day level-3" x="674" y="92" width="10" height="10" rx="2" data-date="2026-07-31" data-count="17">
+<title>17 combined contributions on 2026-07-31</title>
+</rect>
+<rect class="day level-2" x="674" y="106" width="10" height="10" rx="2" data-date="2026-08-01" data-count="7">
+<title>7 combined contributions on 2026-08-01</title>
+</rect>
+<rect class="day level-0" x="688" y="22" width="10" height="10" rx="2" data-date="2026-08-02" data-count="0">
+<title>0 combined contributions on 2026-08-02</title>
+</rect>
+<rect class="day level-3" x="688" y="36" width="10" height="10" rx="2" data-date="2026-08-03" data-count="18">
+<title>18 combined contributions on 2026-08-03</title>
+</rect>
+<rect class="day level-4" x="688" y="50" width="10" height="10" rx="2" data-date="2026-08-04" data-count="31">
+<title>31 combined contributions on 2026-08-04</title>
+</rect>
+<rect class="day level-4" x="688" y="64" width="10" height="10" rx="2" data-date="2026-08-05" data-count="36">
+<title>36 combined contributions on 2026-08-05</title>
+</rect>
+<rect class="day level-2" x="688" y="78" width="10" height="10" rx="2" data-date="2026-08-06" data-count="8">
+<title>8 combined contributions on 2026-08-06</title>
+</rect>
+<rect class="day level-4" x="688" y="92" width="10" height="10" rx="2" data-date="2026-08-07" data-count="30">
+<title>30 combined contributions on 2026-08-07</title>
+</rect>
+<rect class="day level-0" x="688" y="106" width="10" height="10" rx="2" data-date="2026-08-08" data-count="0">
+<title>0 combined contributions on 2026-08-08</title>
+</rect>
+<rect class="day level-0" x="702" y="22" width="10" height="10" rx="2" data-date="2026-08-09" data-count="0">
+<title>0 combined contributions on 2026-08-09</title>
+</rect>
+<rect class="day level-2" x="702" y="36" width="10" height="10" rx="2" data-date="2026-08-10" data-count="12">
+<title>12 combined contributions on 2026-08-10</title>
+</rect>
+<rect class="day level-4" x="702" y="50" width="10" height="10" rx="2" data-date="2026-08-11" data-count="29">
+<title>29 combined contributions on 2026-08-11</title>
+</rect>
+<rect class="day level-4" x="702" y="64" width="10" height="10" rx="2" data-date="2026-08-12" data-count="32">
+<title>32 combined contributions on 2026-08-12</title>
+</rect>
+<rect class="day level-1" x="702" y="78" width="10" height="10" rx="2" data-date="2026-08-13" data-count="6">
+<title>6 combined contributions on 2026-08-13</title>
+</rect>
+<rect class="day level-3" x="702" y="92" width="10" height="10" rx="2" data-date="2026-08-14" data-count="21">
+<title>21 combined contributions on 2026-08-14</title>
+</rect>
+<rect class="day level-1" x="702" y="106" width="10" height="10" rx="2" data-date="2026-08-15" data-count="1">
+<title>1 combined contribution on 2026-08-15</title>
+</rect>
+<rect class="day level-0" x="716" y="22" width="10" height="10" rx="2" data-date="2026-08-16" data-count="0">
+<title>0 combined contributions on 2026-08-16</title>
+</rect>
+<rect class="day level-3" x="716" y="36" width="10" height="10" rx="2" data-date="2026-08-17" data-count="28">
+<title>28 combined contributions on 2026-08-17</title>
+</rect>
+<rect class="day level-2" x="716" y="50" width="10" height="10" rx="2" data-date="2026-08-18" data-count="10">
+<title>10 combined contributions on 2026-08-18</title>
+</rect>
+<rect class="day level-4" x="716" y="64" width="10" height="10" rx="2" data-date="2026-08-19" data-count="95">
+<title>95 combined contributions on 2026-08-19</title>
+</rect>
+<rect class="day level-4" x="716" y="78" width="10" height="10" rx="2" data-date="2026-08-20" data-count="113">
+<title>113 combined contributions on 2026-08-20</title>
+</rect>
+<rect class="day level-3" x="716" y="92" width="10" height="10" rx="2" data-date="2026-08-21" data-count="16">
+<title>16 combined contributions on 2026-08-21</title>
+</rect>
+<rect class="day level-0" x="716" y="106" width="10" height="10" rx="2" data-date="2026-08-22" data-count="0">
+<title>0 combined contributions on 2026-08-22</title>
+</rect>
+<rect class="day level-0" x="730" y="22" width="10" height="10" rx="2" data-date="2026-08-23" data-count="0">
+<title>0 combined contributions on 2026-08-23</title>
+</rect>
+<rect class="day level-4" x="730" y="36" width="10" height="10" rx="2" data-date="2026-08-24" data-count="41">
+<title>41 combined contributions on 2026-08-24</title>
+</rect>
+<rect class="day level-4" x="730" y="50" width="10" height="10" rx="2" data-date="2026-08-25" data-count="29">
+<title>29 combined contributions on 2026-08-25</title>
+</rect>
+<rect class="day level-3" x="730" y="64" width="10" height="10" rx="2" data-date="2026-08-26" data-count="28">
+<title>28 combined contributions on 2026-08-26</title>
+</rect>
+<rect class="day level-3" x="730" y="78" width="10" height="10" rx="2" data-date="2026-08-27" data-count="16">
+<title>16 combined contributions on 2026-08-27</title>
+</rect>
+<rect class="day level-4" x="730" y="92" width="10" height="10" rx="2" data-date="2026-08-28" data-count="35">
+<title>35 combined contributions on 2026-08-28</title>
+</rect>
+<rect class="day level-4" x="730" y="106" width="10" height="10" rx="2" data-date="2026-08-29" data-count="31">
+<title>31 combined contributions on 2026-08-29</title>
+</rect>
+<rect class="day level-0" x="744" y="22" width="10" height="10" rx="2" data-date="2026-08-30" data-count="0">
+<title>0 combined contributions on 2026-08-30</title>
+</rect>
+<rect class="day level-3" x="744" y="36" width="10" height="10" rx="2" data-date="2026-08-31" data-count="28">
+<title>28 combined contributions on 2026-08-31</title>
+</rect>
+<rect class="day level-4" x="744" y="50" width="10" height="10" rx="2" data-date="2026-09-01" data-count="56">
+<title>56 combined contributions on 2026-09-01</title>
+</rect>
+<rect class="day level-4" x="744" y="64" width="10" height="10" rx="2" data-date="2026-09-02" data-count="35">
+<title>35 combined contributions on 2026-09-02</title>
+</rect>
+<rect class="day level-3" x="744" y="78" width="10" height="10" rx="2" data-date="2026-09-03" data-count="15">
+<title>15 combined contributions on 2026-09-03</title>
+</rect>
+<rect class="day level-3" x="744" y="92" width="10" height="10" rx="2" data-date="2026-09-04" data-count="27">
+<title>27 combined contributions on 2026-09-04</title>
+</rect>
+<rect class="day level-0" x="744" y="106" width="10" height="10" rx="2" data-date="2026-09-05" data-count="0">
+<title>0 combined contributions on 2026-09-05</title>
+</rect>
+<rect class="day level-0" x="758" y="22" width="10" height="10" rx="2" data-date="2026-09-06" data-count="0">
+<title>0 combined contributions on 2026-09-06</title>
+</rect>
+<rect class="day level-4" x="758" y="36" width="10" height="10" rx="2" data-date="2026-09-07" data-count="39">
+<title>39 combined contributions on 2026-09-07</title>
+</rect>
+<rect class="day level-3" x="758" y="50" width="10" height="10" rx="2" data-date="2026-09-08" data-count="18">
+<title>18 combined contributions on 2026-09-08</title>
+</rect>
+<rect class="day level-4" x="758" y="64" width="10" height="10" rx="2" data-date="2026-09-09" data-count="39">
+<title>39 combined contributions on 2026-09-09</title>
+</rect>
+<rect class="day level-3" x="758" y="78" width="10" height="10" rx="2" data-date="2026-09-10" data-count="19">
+<title>19 combined contributions on 2026-09-10</title>
+</rect>
+<rect class="day level-1" x="758" y="92" width="10" height="10" rx="2" data-date="2026-09-11" data-count="1">
+<title>1 combined contribution on 2026-09-11</title>
+</rect>
+<rect class="day level-0" x="758" y="106" width="10" height="10" rx="2" data-date="2026-09-12" data-count="0">
+<title>0 combined contributions on 2026-09-12</title>
+</rect>
+<text x="652" y="144">Less</text>
+<rect class="day level-0" x="680" y="135" width="10" height="10" rx="2" />
+<rect class="day level-1" x="694" y="135" width="10" height="10" rx="2" />
+<rect class="day level-2" x="708" y="135" width="10" height="10" rx="2" />
+<rect class="day level-3" x="722" y="135" width="10" height="10" rx="2" />
+<rect class="day level-4" x="736" y="135" width="10" height="10" rx="2" />
+<text x="755" y="144">More</text>
+</svg>
