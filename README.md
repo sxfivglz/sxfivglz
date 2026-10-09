@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal/how-i-work.svg" width="100%" alt="How I work. Teamwork: development teams since my internship, today partnering with a consulting team. Clear communication: I explain the why behind each change and document what I build. Problem solving: I trace production issues end to end. Ownership: I keep supporting what I build in production. Judgment: I flag technical, policy and legal risks before building. Continuous learning: from web and mobile development to AI and agentic systems. Currently exploring LLM evals, agent reliability, MCP, cloud infrastructure and observability." />
+  <img src="assets/terminal/how-i-work.svg" width="100%" alt="How I work. Teamwork: development teams since my internship, today partnering with a consulting team. Clear communication: I explain the why behind each change and document what I build. Problem solving: I trace production issues end to end. Ownership: I keep supporting what I build in production. Judgment: I flag technical, policy and legal risks before building. Continuous learning: from web and mobile development to AI and agentic systems. Currently learning about evals, harnesses, guardrails, embeddings and RAG." />
 </p>
 
 <p align="center">

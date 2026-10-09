@@ -314,8 +314,8 @@ def build_panels() -> list[Panel]:
                 [line for label, text in work_rows for line in labeled(label, text, 22, "green")],
             ),
             Block(
-                "ls ~/exploring",
-                [text_line("llm-evals  agent-reliability  mcp  cloud-infrastructure  observability", "blue", True)],
+                "ls ~/learning",
+                [text_line("evals  harnesses  guardrails  embeddings  rag", "blue", True)],
             ),
         ],
     )
