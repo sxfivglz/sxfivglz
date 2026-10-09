@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal/featured-projects.svg" width="100%" alt="Featured projects. WhatsApp Business Platform: multi-company platform connecting business phone lines to Meta's WhatsApp API, approved by Meta, with an MCP server for AI agents. After-Sales Assistant: WhatsApp bot for repair reports, a visit-scheduling platform and an AI agent that classifies reports. Collections and E-Invoicing: ERP import, payment reconciliation, account statements, natural-language queries and SAT invoice validation. Pickleball Tournament App: database architecture, backend and APIs. Field Crew Tracking, a team project: crew geolocation for fiber optic installation. Client work is private and under NDA." />
+  <img src="assets/terminal/featured-projects.svg" width="100%" alt="Featured projects. WhatsApp Business Platform: multi-company platform connecting business phone lines to Meta's WhatsApp API, approved by Meta, with an MCP server for AI agents. After-Sales Assistant: WhatsApp bot for repair reports, a visit-scheduling platform and an AI agent that classifies reports. Collections and E-Invoicing: ERP import, payment reconciliation, account statements, natural-language queries and SAT invoice validation. AI Voice Calls, built with ElevenLabs, Twilio, VAPI and the OpenAI Realtime API: voice agents that place payment-reminder calls in an automated escalation from email to phone call to a human agent. Pickleball Tournament App: database architecture, backend and APIs. Field Crew Tracking, a team project: crew geolocation for fiber optic installation. Client work is private and under NDA." />
 </p>
 
 <p align="center">

@@ -277,6 +277,8 @@ def build_panels() -> list[Panel]:
          "WhatsApp bot where homeowners report repairs, an admin platform to schedule visits, and an AI agent that classifies reports, validated with test cases before launch."),
         ("Collections & E-Invoicing", "Python · FastAPI · PostgreSQL · OpenAI · n8n",
          "ERP data import, payment reconciliation, account statements, natural-language queries and automated download and validation of SAT electronic invoices."),
+        ("AI Voice Calls", "ElevenLabs · Twilio · VAPI · OpenAI Realtime API",
+         "Voice agents that place payment-reminder calls as part of an automated escalation from email to phone call to a human agent, recording each call's outcome."),
         ("Pickleball Tournament App", "REST APIs · relational database",
          "Database architecture, backend and APIs for tournament, player profile and ranking management."),
         ("Field Crew Tracking (team project)", "Laravel",
